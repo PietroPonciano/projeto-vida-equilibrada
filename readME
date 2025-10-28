@@ -1,54 +1,40 @@
-# 🌿 Vida Equilibrada
+Vida Equilibrada
 
-![Banner](https://via.placeholder.com/800x200.png?text=Vida+Equilibrada)  
+Vida Equilibrada é uma aplicação web projetada para ajudar os usuários a gerenciar suas finanças e alcançar uma vida mais equilibrada, fornecendo ferramentas para acompanhar salário, gastos, dicas financeiras e recomendações personalizadas.
 
-**Vida Equilibrada** é uma aplicação web que ajuda os usuários a organizar suas finanças, acompanhar gastos e receber recomendações para uma vida mais equilibrada.
+🌟 Funcionalidades Principais
 
----
+Visualização do salário e gastos mensais
 
-## 🔗 Acessar Online
+Gráficos de acompanhamento financeiro
 
-🌐 [Vida Equilibrada Web](https://vida-equilibrada-web.vercel.app)
+Dicas e recomendações para organizar melhor o orçamento
 
----
+Histórico acumulado de gastos
 
-## 🚀 Funcionalidades
+Dashboard interativo e intuitivo
 
-- 💰 Visualização do salário e gastos mensais  
-- 📊 Gráficos interativos de acompanhamento financeiro  
-- 💡 Dicas e recomendações personalizadas  
-- 🕒 Histórico acumulado de gastos  
-- 🖥️ Dashboard intuitivo e responsivo  
+🚀 Como Usar
 
----
+Acesse a aplicação pelo link:
+🔗 Vida Equilibrada Web
 
-## 🛠 Tecnologias Utilizadas
+Navegue pelo dashboard e explore suas funcionalidades:
 
-| Tecnologia | Descrição |
-|-----------|-----------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | Frontend da aplicação |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) | Framework React para SSR e rotas |
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) | Hospedagem e deploy da aplicação |
-| ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white) | Biblioteca para gráficos interativos |
+Veja o resumo financeiro mensal
 
----
+Confira gráficos de gastos e comparativos
 
-## 🖥️ Como Usar
+Receba dicas e recomendações personalizadas
 
-1. Acesse o projeto online: [https://vida-equilibrada-web.vercel.app](https://vida-equilibrada-web.vercel.app)  
-2. Explore o dashboard:  
-   - Veja o resumo financeiro mensal  
-   - Analise gráficos de gastos e comparativos  
-   - Receba dicas para organizar melhor seu orçamento  
+💻 Tecnologias (Estimativas)
 
----
+Frontend: React + Vite
 
-## 🎨 Layout e Imagens
+Hospedagem: Vercel
 
-![Dashboard Screenshot](https://via.placeholder.com/600x400.png?text=Dashboard+Vida+Equilibrada)
+Gráficos: Chart.js (para visualização de gastos)
 
----
+📄 Licença
 
-## 📄 Licença
-
-Este projeto está disponível para **uso pessoal e educativo**. Para outros usos, consulte o desenvolvedor.
+Este projeto está disponível para uso pessoal e educativo. Consulte o desenvolvedor para outros usos.
