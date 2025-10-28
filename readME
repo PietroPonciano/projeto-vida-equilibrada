@@ -1,0 +1,40 @@
+Vida Equilibrada
+
+Vida Equilibrada é uma aplicação web projetada para ajudar os usuários a gerenciar suas finanças e alcançar uma vida mais equilibrada, fornecendo ferramentas para acompanhar salário, gastos, dicas financeiras e recomendações personalizadas.
+
+🌟 Funcionalidades Principais
+
+Visualização do salário e gastos mensais
+
+Gráficos de acompanhamento financeiro
+
+Dicas e recomendações para organizar melhor o orçamento
+
+Histórico acumulado de gastos
+
+Dashboard interativo e intuitivo
+
+🚀 Como Usar
+
+Acesse a aplicação pelo link:
+🔗 Vida Equilibrada Web
+
+Navegue pelo dashboard e explore suas funcionalidades:
+
+Veja o resumo financeiro mensal
+
+Confira gráficos de gastos e comparativos
+
+Receba dicas e recomendações personalizadas
+
+💻 Tecnologias (Estimativas)
+
+Frontend: React + Vite
+
+Hospedagem: Vercel
+
+Gráficos: Chart.js (para visualização de gastos)
+
+📄 Licença
+
+Este projeto está disponível para uso pessoal e educativo. Consulte o desenvolvedor para outros usos.
