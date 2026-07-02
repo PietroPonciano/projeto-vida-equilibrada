@@ -1,0 +1,118 @@
+:root {
+  --color-primary: #059669;           
+  --color-primary-hover: #047857;     
+  --color-text: #059669;              
+  --color-white: #ffffff;
+  --color-border: #e5e7eb;            
+}
+       /* Reset Básico */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f8f8;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+/* Navbar */
+.nav {
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-border);
+  padding: 1rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+}
+
+.nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* Logo */
+.nav .brand {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: var(--color-primary);
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+/* Links */
+.nav .right a {
+  margin-left: 10px;
+  text-decoration: none;
+  color: var(--color-text);
+  font-weight: 600;
+  transition: color 0.3s ease;
+  padding: 8px 12px;
+}
+.nav .right a:hover {
+  color: var(--color-primary-hover);
+}
+
+/* Botão logout */
+.btn-logout {
+  margin-left: 10px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  background: var(--color-primary);
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .nav {
+    position: static;
+    box-shadow: none;
+  }
+  .nav .container {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .nav .right {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav .brand {
+    font-size: 1.5rem;
+  }
+  .nav .right a {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .nav .brand {
+    font-size: 1.25rem;
+  }
+  .nav .right a {
+    font-size: 0.9rem;
+  }
+  .btn-logout {
+    padding: 5px 8px;
+    font-size: 0.85rem;
+  }
+}
+
