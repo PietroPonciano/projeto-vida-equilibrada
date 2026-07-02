@@ -1,6 +1,6 @@
 Com base no arquivo fornecido, aqui está um `README.md` completo, estruturado e profissional para a sua aplicação back-end (**API Node Financeira** / **Vida Equilibrada**):
 
-```markdown
+
 # API Node Financeira — Vida Equilibrada
 
 Esta é uma API REST desenvolvida em Node.js e Express que serve como o ecossistema back-end para a aplicação de gestão financeira inteligente **Vida Equilibrada**. A plataforma foi desenhada para auxiliar os utilizadores a gerirem as suas finanças pessoais através do registo de gastos, importação automática de extratos bancários, geração de relatórios consolidados em PDF e análise/previsão de despesas utilizando Inteligência Artificial.
@@ -51,7 +51,7 @@ A arquitetura do projeto segue um padrão modular focado em separação de conce
 ├── services/              # Core business: integração com IA, parsers (CSV/PDF) e previsões
 └── utils/                 # Funções utilitárias (JWT, PDF, db, integradores)
 
-```
+
 
 ---
 
