@@ -1,40 +1,23 @@
-# 🌿 Vida Equilibrada
+# Vida Equilibrada
 
-**Vida Equilibrada** é uma aplicação web que ajuda os usuários a gerenciar suas finanças e alcançar uma vida mais equilibrada, fornecendo ferramentas para acompanhar salário, gastos, dicas financeiras e recomendações personalizadas.
+O Vida Equilibrada é uma plataforma de gestão financeira pessoal desenvolvida para ajudar as pessoas a compreenderem seus hábitos de consumo, organizarem seus orçamentos e alcançarem uma rotina financeira saudável. A aplicação oferece um ecossistema completo que transforma o acompanhamento de despesas em uma tarefa simples e estratégica.
 
----
+## Funcionalidades Principais
 
-## 🌟 Funcionalidades Principais
+* Painel de controle interativo com o resumo detalhado de receitas e despesas mensais.
+* Gráficos comparativos para acompanhamento visual e simplificado da evolução financeira.
+* Importação automatizada de extratos bancários para o registro rápido de transações.
+* Sistema inteligente de classificação de gastos e análises de consumo personalizadas.
+* Emissão e exportação de relatórios mensais consolidados em formato PDF.
+* Histórico acumulado para rastreamento detalhado de despesas passadas.
 
-- 💰 **Visualização do salário e gastos mensais**  
-- 📊 **Gráficos de acompanhamento financeiro**  
-- 💡 **Dicas e recomendações para organizar melhor o orçamento**  
-- 🕒 **Histórico acumulado de gastos**  
-- 🖥️ **Dashboard interativo e intuitivo**
+## Como Utilizar a Plataforma
 
----
+1. Acesse a aplicação online por meio do endereço eletrônico oficial do Vida Equilibrada Web.
+2. Crie a sua conta com segurança para ter acesso ao seu painel exclusivo.
+3. Registre seus ganhos e gastos diários ou envie o arquivo do seu extrato bancário para processamento automático.
+4. Analise o seu orçamento por meio dos gráficos de consumo e exporte os seus relatórios para manter as suas metas organizadas.
 
-## 🚀 Como Usar
+## Finalidade do Projeto
 
-1. Acesse a aplicação online:  
-   🔗 [Vida Equilibrada Web](https://vida-equilibrada-web.vercel.app)  
-2. Navegue pelo dashboard e explore suas funcionalidades:  
-   - Veja o resumo financeiro mensal  
-   - Confira gráficos de gastos e comparativos  
-   - Receba dicas e recomendações personalizadas
-
----
-
-## 🛠 Tecnologias Utilizadas
-
-| Tecnologia | Descrição |
-|-----------|-----------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | Frontend da aplicação |
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) | Hospedagem e deploy da aplicação |
-| ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white) | Biblioteca para gráficos interativos |
-
----
-
-## 📄 Licença
-
-Este projeto está disponível para **uso pessoal e educativo**. Consulte o desenvolvedor para outros usos.
+Este ecossistema foi projetado para fins educacionais e de uso pessoal, servindo como uma ferramenta prática para facilitar a organização financeira no dia a dia.
